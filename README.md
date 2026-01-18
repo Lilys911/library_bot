@@ -2,3 +2,4 @@
 Bu bot kutubxona uchun, kutubxonadan kim kitob olgan bolsa belgilaydi, va qaytarganda ham, va admin panel ham bor
 /search, /borrow, /return. 
 Bu asosan o'quvchilarga yordam berish uchun, ular kutubxonaga kelmasdan ular hohlagan kitob uyerda bor yoqligini bilishadi. Bu vaqtni tejash uchun
+BOTni ishlatish uchun avval kitoblar_listi.pyni run qiling, song main.pyni, shunda kitoblar royxati chiqadi(database of books).
